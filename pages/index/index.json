@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "com-dialog": "/components/dialog/index"
+  }
+}

@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<button bindtap='showDialog'>弹窗</button>
+<com-dialog id='dialog'>
+  <!-- 弹窗布局 -->
+  <view class='dialog'>
+    这里是弹窗布局
+  </view>
+</com-dialog>

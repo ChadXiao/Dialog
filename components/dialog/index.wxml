@@ -1,0 +1,5 @@
+<!--components/dialog/index.wxml-->
+<view class="mask" hidden='{{!showDialog}}'>
+    <view class="bg" bindtap="hideDialog"></view>
+    <slot></slot>
+</view>
